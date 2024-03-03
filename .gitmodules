@@ -1,0 +1,4 @@
+[submodule "/Users/davidebosco/Documents/Unreal Projects/Movement/Plugins/PredictedMovement"]
+	path = /Users/davidebosco/Documents/Unreal Projects/Movement/Plugins/PredictedMovement
+	url = https://github.com/XyloIsCoding/PredictedMovement.git
+	branch = link
